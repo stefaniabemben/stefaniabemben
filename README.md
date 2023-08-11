@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello, I'm Stefania 👋 
 
 <!--
-**stefaniabemben/stefaniabemben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a begginer Software Tester. I'm an inquisitive, creative person with strong attention to details. I invite you to my portfolio, which I created here, as part of a new challenge. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
