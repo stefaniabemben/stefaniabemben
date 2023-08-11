@@ -27,3 +27,9 @@ Testing tools that I use:
 -->
   
 ![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniabemben&show_icons=true&theme=transparent)
+
+
+Connect with me:
+![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Insragram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
