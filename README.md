@@ -1,3 +1,4 @@
+
 ##### Hello, I'm Stefania 👋 
 ### I'm a begginer Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
 
