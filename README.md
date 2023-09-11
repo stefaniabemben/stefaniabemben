@@ -1,8 +1,8 @@
 
-#### **Hello, I'm Stefania 👋** 
-### I'm a begginer Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
+# **Hello, I'm Stefania 👋** 
+## I'm a begginer Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
 
-### 🎯 I invite you to my portfolio, which I created here, as part of a new challenge.
+## 🎯 I invite you to my portfolio, which I created here, as part of a new challenge.
 
 
 # 🛠️ Testing tools that I use 🛠️
