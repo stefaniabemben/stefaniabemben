@@ -1,13 +1,11 @@
 
-##### Hello, I'm Stefania 👋 
+#### Hello, I'm Stefania 👋 
 ### I'm a begginer Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
 
 ### 🎯 I invite you to my portfolio, which I created here, as part of a new challenge.
 
 
-
-
-## 🛠️ Testing tools that I use 🛠️
+# 🛠️ Testing tools that I use 🛠️
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
