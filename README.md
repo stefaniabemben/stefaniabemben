@@ -1,14 +1,14 @@
 
 # **Hello, I'm Stefania 👋** 
-## I'm a begginer Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
+### I'm a begginer Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
 
-## 🎯 I invite you to my portfolio, which I created here, as part of a new challenge.
-
-
+### 🎯 I invite you to my portfolio, which I created here, as part of a new challenge.
 
 
 
-# 🛠️ Testing tools that I use 🛠️
+
+
+## 🛠️ Testing tools that I use 🛠️
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -26,17 +26,17 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-- 🔭 I’m currently working on Software Testing course 🔓
-- 💡 I’m currently learning JAVA language 🔧
-- 💬 Ask me about my plants 🌿
-- 📫 How to reach me: stefaniabemben@gmail.com 📧
-- ⚡ Fun fact: I have two cats 😺😺
+### - 🔭 I’m currently working on Software Testing course 🔓
+### - 💡 I’m currently learning JAVA language 🔧
+### - 💬 Ask me about my plants 🌿
+### - 📫 How to reach me: stefaniabemben@gmail.com 📧
+### - ⚡ Fun fact: I have two cats 😺😺
 
   
 ![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniabemben&show_icons=true&theme=transparent)
 
 
-📲 Connect with me 📲
+## 📲 Connect with me 📲
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefaniabemben/)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/stefaniabemben/)
