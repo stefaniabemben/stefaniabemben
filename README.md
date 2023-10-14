@@ -1,6 +1,6 @@
 # Portfolio
-# About me
-# **Hello, I'm Stefania 👋** 
+## About me
+## **Hello, I'm Stefania 👋** 
 ### I have a master's degree in law, speciality: Human Rights, which I gained at Nikolai Copernicus University in Toruń. Few months ago I decided to change my career path and become a Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
 ### My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 ### 🎯 I invite you to my portfolio, which I created here, as a part of new challenge. You can find here my gained experience from personal studies, researches ans courses I took part in. 
@@ -32,14 +32,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## :pushpin: Tech skills :pushpin:
-### * Software testing
-### * Creating test cases
-### * Reporting bugs
-### * SQL
-### * SCRUM
+### Software testing
+### Creating test cases
+### Reporting bugs
+### SQL
+### SCRUM
 
 ## :scroll: Certificates :scroll:
-### * Certyfikat Tester Oprogramowania - Software Development Academy [Click](https://app.diplomasafe.com/pl-PL/diploma/dad80c9f81303db145fd180ad73db4617ade01a97/tester-oprogramowania/linkedin)
+### Certyfikat Tester Oprogramowania - Software Development Academy: [Click](https://app.diplomasafe.com/pl-PL/diploma/dad80c9f81303db145fd180ad73db4617ade01a97/tester-oprogramowania/linkedin)
   
 ![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniabemben&show_icons=true&theme=transparent)
 
