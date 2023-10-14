@@ -39,7 +39,7 @@
 ### *SCRUM
 
 ## :scroll: Certificates :scroll:
-### * ! [Certyfikat Tester Oprogramowania - Software Development Academy] (https://app.diplomasafe.com/pl-PL/diploma/dad80c9f81303db145fd180ad73db4617ade01a97/tester-oprogramowania/linkedin)
+### *Certyfikat Tester Oprogramowania - Software Development Academy ![Click](https://app.diplomasafe.com/pl-PL/diploma/dad80c9f81303db145fd180ad73db4617ade01a97/tester-oprogramowania/linkedin)
   
 ![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniabemben&show_icons=true&theme=transparent)
 
