@@ -40,8 +40,32 @@
 
 ## :scroll: Certificates :scroll:
 ### Softwere Tester Certificate from Software Development Academy: [Click](https://app.diplomasafe.com/pl-PL/diploma/dad80c9f81303db145fd180ad73db4617ade01a97/tester-oprogramowania/linkedin)
-  
-![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniabemben&show_icons=true&theme=transparent)
+
+
+## :book: Courses :book:
+### **Software tester course (Software Development Academy)** 
+### 7 week challange: Testowanie oprogramowania w pratyce (DareIT)
+### Course: Java od podstaw (Udemy) 
+### Course: Testowanie oprogramowania w praktyce (Udemy) 
+### Course: English in IT (Lango Master)
+
+
+## :zap: My test case examples :zap:
+### [Test cases for site scouts-test.futbolkolektyw.pl](https://docs.google.com/document/d/1k4ZAYKrZsnLurpbyn12vJUJOCFfBNYjkaLJFR70wLfQ/edit?usp=sharing)
+### [Test cases for application Pick.Eat.Up](https://docs.google.com/document/d/1-G_Sdx3GO0e50BIi7RgGPQE_eoST4A8mHG2J7dT0D1Q/edit?usp=sharing)
+
+## :beetle: My bug reports :beetle:
+### Bug reports for scouts-test.futbolkolektyw.pl site:
+### [1.](https://docs.google.com/document/d/1zzCmCirSAxY8QeyQ3Id2DQuTd6h-6-ObgrV8PIytKus/edit?usp=sharing)
+### [2.](https://drive.google.com/file/d/1byt0kxRo-8iUGY6Tqhjue9FEtxJ17Ej5/view?usp=sharing)
+### [3.](https://docs.google.com/document/d/1-Zagu3sfCvylMe-xhQvgzoU1o8F-yXlbESPoP3GtoiY/edit?usp=sharing)
+### Bug reports for OLX.pl mobile application:
+### [1.](https://docs.google.com/document/d/1SkUuETJYvgak5-9bt8rQL3JJt1D1QwCa9u9rrT5wohM/edit?usp=sharing)
+### Bug reports for swipeto.pl site:
+### [1.](https://docs.google.com/document/d/1-zrvfjnbZMV1EXiAdNHEvjeImjJD4oDoDMTEoIcM3bQ/edit?usp=sharing)
+
+## :sunflower: My projects :sunflower:
+### [Dare IT - Testowanie oprogramowania w praktyce](https://github.com/stefaniabemben/challenge_portfolio_stefania)
 
 ## 📲 Connect with me 📲
 
