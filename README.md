@@ -32,11 +32,11 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## :pushpin: Tech skills :pushpin:
-Software testing
-Creating test cases
-Reporting bugs
-SQL
-### SCRUM
+#Software testing
+#Creating test cases
+#Reporting bugs
+#SQL
+#SCRUM
 
 ## :scroll: Certificates :scroll:
 Softwere Tester Certificate from Software Development Academy: [Click](https://app.diplomasafe.com/pl-PL/diploma/dad80c9f81303db145fd180ad73db4617ade01a97/tester-oprogramowania/linkedin)
