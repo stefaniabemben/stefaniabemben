@@ -68,13 +68,13 @@ Softwere Tester Certificate from Software Development Academy: [Click](https://a
 [Dare IT - Testowanie oprogramowania w praktyce](https://github.com/stefaniabemben/challenge_portfolio_stefania)
 
 ## My task list:
-- [x]4 month Software Tester course
-- [x]Java course Udemy
-- [x]SQL course Udemy
-- [ ]12 week English in IT course - in progress
-- [ ]7 week Dare IT challange - in progress
-- [ ]ISTQB exam - 20.11.2013
-- [ ]Getting new job as a Software Tester
+- [x] 4 month Software Tester course
+- [x] Java course Udemy
+- [x] SQL course Udemy
+- [ ] 12 week English in IT course - in progress
+- [ ] 7 week Dare IT challange - in progress
+- [ ] ISTQB exam - 20.11.2013
+- [ ] Getting new job as a Software Tester
 
 ## 📲 Connect with me 📲
 
