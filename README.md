@@ -67,7 +67,7 @@ Softwere Tester Certificate from Software Development Academy: [Click](https://a
 ## :sunflower: My projects :sunflower:
 [Dare IT - Testowanie oprogramowania w praktyce](https://github.com/stefaniabemben/challenge_portfolio_stefania)
 
-## My task list:
+## My tasks list:
 - [x] 4 month Software Tester course
 - [x] Java course Udemy
 - [x] SQL course Udemy
