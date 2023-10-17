@@ -3,12 +3,13 @@
 ## **Hello, I'm Stefania 👋** 
 I have a master's degree in law, speciality: Human Rights, which I gained at Nikolai Copernicus University in Toruń. Few months ago I decided to change my career path and become a Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
 My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+
 🎯 I invite you to my portfolio, which I created here, as a part of new challenge. You can find here my gained experience from personal studies, researches ans courses I took part in. 
 
-- 🔭 I’m currently working on studying to ISTQB exam 🔓
-- 💡 I’m currently learning JAVA language 🔧
-- 💬 Ask me about my exotic plants - it is my hobby 🌿
-- 📫 How to reach me: stefaniabemben@gmail.com 📧
+- I’m currently studying to ISTQB exam :notebook:
+- I’m currently learning JAVA language :wrench:
+- Ask me about my exotic plants - it is my hobby 🌿
+- How to reach me: stefaniabemben@gmail.com :mailbox_closed:
 
 ## 🛠️ Tools and softwares that I use 🛠️
 
@@ -56,13 +57,13 @@ Softwere Tester Certificate from Software Development Academy: [Click](https://a
 
 ## :beetle: My bug reports :beetle:
 ### Bug reports for scouts-test.futbolkolektyw.pl site:
-[part 1](https://docs.google.com/document/d/1zzCmCirSAxY8QeyQ3Id2DQuTd6h-6-ObgrV8PIytKus/edit?usp=sharing)
-[part 2](https://drive.google.com/file/d/1byt0kxRo-8iUGY6Tqhjue9FEtxJ17Ej5/view?usp=sharing)
-[part 3](https://docs.google.com/document/d/1-Zagu3sfCvylMe-xhQvgzoU1o8F-yXlbESPoP3GtoiY/edit?usp=sharing)
+* [part 1](https://docs.google.com/document/d/1zzCmCirSAxY8QeyQ3Id2DQuTd6h-6-ObgrV8PIytKus/edit?usp=sharing)
+* [part 2](https://drive.google.com/file/d/1byt0kxRo-8iUGY6Tqhjue9FEtxJ17Ej5/view?usp=sharing)
+* [part 3](https://docs.google.com/document/d/1-Zagu3sfCvylMe-xhQvgzoU1o8F-yXlbESPoP3GtoiY/edit?usp=sharing)
 ### Bug reports for OLX.pl mobile application:
-[part 1](https://docs.google.com/document/d/1SkUuETJYvgak5-9bt8rQL3JJt1D1QwCa9u9rrT5wohM/edit?usp=sharing)
+* [part 1](https://docs.google.com/document/d/1SkUuETJYvgak5-9bt8rQL3JJt1D1QwCa9u9rrT5wohM/edit?usp=sharing)
 ### Bug reports for swipeto.pl site:
-[part 1](https://docs.google.com/document/d/1-zrvfjnbZMV1EXiAdNHEvjeImjJD4oDoDMTEoIcM3bQ/edit?usp=sharing)
+* [part 1](https://docs.google.com/document/d/1-zrvfjnbZMV1EXiAdNHEvjeImjJD4oDoDMTEoIcM3bQ/edit?usp=sharing)
 
 ## :sunflower: My projects :sunflower:
 [Dare IT - Testowanie oprogramowania w praktyce](https://github.com/stefaniabemben/challenge_portfolio_stefania)
