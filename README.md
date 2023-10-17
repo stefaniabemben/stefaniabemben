@@ -55,7 +55,7 @@ Course: English in IT (Lango Master)
 [Test cases for application Pick.Eat.Up](https://docs.google.com/document/d/1-G_Sdx3GO0e50BIi7RgGPQE_eoST4A8mHG2J7dT0D1Q/edit?usp=sharing)
 
 ## :beetle: My bug reports :beetle:
-## Bug reports for scouts-test.futbolkolektyw.pl site:
+### Bug reports for scouts-test.futbolkolektyw.pl site:
 [part 1](https://docs.google.com/document/d/1zzCmCirSAxY8QeyQ3Id2DQuTd6h-6-ObgrV8PIytKus/edit?usp=sharing)
 [part 2](https://drive.google.com/file/d/1byt0kxRo-8iUGY6Tqhjue9FEtxJ17Ej5/view?usp=sharing)
 [part 3](https://docs.google.com/document/d/1-Zagu3sfCvylMe-xhQvgzoU1o8F-yXlbESPoP3GtoiY/edit?usp=sharing)
