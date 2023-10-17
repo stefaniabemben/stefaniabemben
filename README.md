@@ -71,10 +71,10 @@ Softwere Tester Certificate from Software Development Academy: [Click](https://a
 - [x]4 month Software Tester course
 - [x]Java course Udemy
 - [x]SQL course Udemy
-- []12 week English in IT course - in progress
-- []7 week Dare IT challange - in progress
-- []ISTQB exam - 20.11.2013
-- []Getting new job as a Software Tester
+- [ ]12 week English in IT course - in progress
+- [ ]7 week Dare IT challange - in progress
+- [ ]ISTQB exam - 20.11.2013
+- [ ]Getting new job as a Software Tester
 
 ## 📲 Connect with me 📲
 
