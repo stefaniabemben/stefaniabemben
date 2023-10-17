@@ -32,11 +32,11 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## :pushpin: Tech skills :pushpin:
-#Software testing
-#Creating test cases
-#Reporting bugs
-#SQL
-#SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+* SQL
+* SCRUM
 
 ## :scroll: Certificates :scroll:
 Softwere Tester Certificate from Software Development Academy: [Click](https://app.diplomasafe.com/pl-PL/diploma/dad80c9f81303db145fd180ad73db4617ade01a97/tester-oprogramowania/linkedin)
@@ -44,15 +44,15 @@ Softwere Tester Certificate from Software Development Academy: [Click](https://a
 
 ## :book: Courses :book:
 **Software tester course (Software Development Academy)** 
-7 week challange: Testowanie oprogramowania w pratyce (DareIT)
-Course: Java od podstaw (Udemy) 
-Course: Testowanie oprogramowania w praktyce (Udemy) 
-Course: English in IT (Lango Master)
+* 7 week challange: Testowanie oprogramowania w pratyce (DareIT)
+* Course: Java od podstaw (Udemy) 
+* Course: Testowanie oprogramowania w praktyce (Udemy) 
+* Course: English in IT (Lango Master)
 
 
 ## :zap: My test case examples :zap:
-[Test cases for site scouts-test.futbolkolektyw.pl](https://docs.google.com/document/d/1k4ZAYKrZsnLurpbyn12vJUJOCFfBNYjkaLJFR70wLfQ/edit?usp=sharing)
-[Test cases for application Pick.Eat.Up](https://docs.google.com/document/d/1-G_Sdx3GO0e50BIi7RgGPQE_eoST4A8mHG2J7dT0D1Q/edit?usp=sharing)
+* [Test cases for site scouts-test.futbolkolektyw.pl](https://docs.google.com/document/d/1k4ZAYKrZsnLurpbyn12vJUJOCFfBNYjkaLJFR70wLfQ/edit?usp=sharing)
+* [Test cases for application Pick.Eat.Up](https://docs.google.com/document/d/1-G_Sdx3GO0e50BIi7RgGPQE_eoST4A8mHG2J7dT0D1Q/edit?usp=sharing)
 
 ## :beetle: My bug reports :beetle:
 ### Bug reports for scouts-test.futbolkolektyw.pl site:
