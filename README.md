@@ -1,5 +1,4 @@
 # Portfolio
-## About me
 ## **Hello, I'm Stefania 👋** 
 I have a master's degree in law, speciality: Human Rights, which I gained at Nikolai Copernicus University in Toruń. Few months ago I decided to change my career path and become a Software Tester. I'm an inquisitive, creative person with strong attention to details. 🙋‍♀️
 My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
@@ -67,6 +66,15 @@ Softwere Tester Certificate from Software Development Academy: [Click](https://a
 
 ## :sunflower: My projects :sunflower:
 [Dare IT - Testowanie oprogramowania w praktyce](https://github.com/stefaniabemben/challenge_portfolio_stefania)
+
+## My task list:
+[x]4 month Software Tester course
+[x]Java course Udemy
+[x]SQL course Udemy
+[]English in IT course - in progress
+[]7 week Dare IT challange - in progress
+[]ISTQB exam - 20.11.2013
+[]Getting new job as a Software Tester
 
 ## 📲 Connect with me 📲
 
